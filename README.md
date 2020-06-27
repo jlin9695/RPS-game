@@ -1,1 +1,1 @@
-# RPS-game
+# RPS-game This repository is made to show my first solid attempt at creating a game with rock paper scissors. This showcases the use of one or more functions and how much they can contribute to a final product.
